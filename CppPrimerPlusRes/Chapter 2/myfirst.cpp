@@ -11,5 +11,5 @@ int main()                                    // function header
 // add the following code:
     // cout << "Press any key to continue." <<endl;
 	// cin.get();                                                   
-    return 0;                                 // terminate main()
+    return 0;                                 // terminate main() test
 }                                             // end of function body
